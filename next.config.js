@@ -7,6 +7,7 @@ const nextConfig = {
     optimizeImages: true,
   },
   experimental: {
+    eslint: true,
     optimizeFonts: true,
     optimizeCss: true,
     optimizeImages: true,
